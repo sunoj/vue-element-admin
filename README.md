@@ -35,13 +35,13 @@ English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spa
 <table align="center" cellspacing="0" cellpadding="0">
   <tbody>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" width="250">
         <a href="https://www.duohui.cn/?utm_source=vue-element-admin&utm_medium=web&utm_campaign=vue-element-admin_github" target="_blank">
           <img height="60px" src="https://i.loli.net/2020/12/02/fVzDPudJNEMFO4s.png">
           <p>活动服务销售平台</p>
         </a>
       </td>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" width="250">
         <a href="https://youke.co/?utm_source=vue-element-admin&utm_medium=web&utm_campaign=vue-element-admin_github" target="_blank">
           <img height="60px" src="https://i.loli.net/2020/12/02/Fct46Hdg7X5vLMx.png">
           <p>客户消息直达工作群</p>
