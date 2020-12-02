@@ -28,6 +28,29 @@
 
 English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spanish](./README.es.md)
 
+<p align="center">
+  <b>SPONSORED BY</b>
+</p>
+<br/>
+<table align="center" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.duohui.cn/?utm_source=vue-element-admin&utm_medium=web&utm_campaign=vue-element-admin_github" target="_blank">
+          <img height="60px" src="https://i.loli.net/2020/12/02/L9tP3Sf76amyUrv.png">
+          <p>活动服务销售平台</p>
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://youke.co/?utm_source=vue-element-admin&utm_medium=web&utm_campaign=vue-element-admin_github" target="_blank">
+          <img height="60px" src="https://i.loli.net/2020/12/02/wHMliROSb1PZjA8.png">
+          <p>客户消息直达工作群</p>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Introduction
 
 [vue-element-admin](https://panjiachen.github.io/vue-element-admin) is a production-ready front-end solution for admin interfaces. It is based on [vue](https://github.com/vuejs/vue) and uses the UI Toolkit [element-ui](https://github.com/ElemeFE/element).
